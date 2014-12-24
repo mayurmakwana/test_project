@@ -6,6 +6,4 @@
  * and open the template in the editor.
  */
 
-echo "hello test file";
-
-?>
+echo "test project";
